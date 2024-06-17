@@ -1,1 +1,1 @@
-const expor
+const expo
